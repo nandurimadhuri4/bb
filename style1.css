@@ -1,0 +1,9 @@
+.grid{
+    background-color:rgb(97, 247, 77);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h6{
+    background-color: rgb(97, 247, 77);
+}
